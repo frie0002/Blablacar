@@ -1,3 +1,4 @@
+énoncé du projet
 Vous étant récemment amouraché avec une étudiante de l’UCL, vous devez faire face à
 un problème logistique des plus épineux : comment se rendre à son kot à toute heure du jour
 ou de la nuit alors que vous ne possédez pas de voiture ? N’étant pas du genre à attendre des
